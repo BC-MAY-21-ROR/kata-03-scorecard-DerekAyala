@@ -14,20 +14,20 @@ sidebar:
   # Actualiza tus datos de contacto
   email: derek.ayala12345@hotmail.com
   phone: 3141443023
-  website: # No agregar http://
+  #website: # No agregar http://
   linkedin: brightcoders
   github: DerekAyala
-  gitlab:
-  bitbucket:
+  #gitlab:
+  #bitbucket:
   twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  stack-overflow: 260924/derekayala # Number/Username, e.g. 123456/alandoe
+  codewars: Derek.Ayala
+  #goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Advanced Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -35,7 +35,7 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Leadership
       link: # dejar en blanco
 
     - item: Team Work
@@ -44,11 +44,17 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Self Management
+      link: # dejar en blanco
+
+    - item: Communication
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I'm 5th semester student at Universidad de Colima , I enjoy taking courses in my spare time to improve my knowledge, and I would like to be a leader, someone to inspire others to be better.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
