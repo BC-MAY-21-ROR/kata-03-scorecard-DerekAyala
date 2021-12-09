@@ -63,6 +63,9 @@ educationcomplete:
     time: 2016 - 2019
     details: |
 
+        - Information technologymanagement
+        - Basic Programming knowledge
+
   - degree: Ingeniería en Computación Inteligente
     university: Universidad de colima
     time: 2019 - Present
@@ -71,21 +74,6 @@ educationcomplete:
         - Big data analysis
         - Representaion learning
         - Computational modeling
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -105,16 +93,6 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -125,23 +103,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: JavaScript
+      level: 60%
+
+    - name: PHP
+      level: 60%
+
+    - name: SQL
+      level: 800%
+
+    - name: GIT
+      level: 60%
 
 # NO MODIFICAR
 footer: >
