@@ -111,6 +111,9 @@ skills:
     - name: GIT
       level: 60%
 
+    - name: Ruby
+      level: 70%
+
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
