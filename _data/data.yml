@@ -54,7 +54,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I'm 5th semester student at Universidad de Colima , I enjoy taking courses in my spare time to improve my knowledge, and I would like to be a leader, someone to inspire others to be better.
+    I'm 6th semester student at Universidad de Colima , I enjoy taking courses in my spare time to improve my knowledge, and I would like to be a leader, someone to inspire others to be better.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -77,21 +77,11 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ruby On Rails Developer
+    time: nov 2021 - Present
+    company: BrightCoders
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I'm part of a ruby on rails trainee program in which, I solves alone or on a team different katas where I develop my front-end, ruby, data bases and Git skills, and learn how to work on a team with agile methodology, and as a final test with a team a have to develop a web project.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
