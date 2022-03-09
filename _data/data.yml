@@ -96,8 +96,8 @@ skills:
     - name: HTML
       level: 80%
 
-    - name: CSS
-      level: 80%
+    - name: CSS/SCSS
+      level: 90%
 
     - name: JavaScript
       level: 60%
@@ -106,7 +106,7 @@ skills:
       level: 60%
 
     - name: SQL
-      level: 800%
+      level: 85%
 
     - name: GIT
       level: 60%
