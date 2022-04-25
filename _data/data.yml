@@ -100,19 +100,25 @@ skills:
       level: 90%
 
     - name: JavaScript
-      level: 60%
+      level: 50%
 
-    - name: PHP
+    - name: Python
       level: 60%
 
     - name: SQL
       level: 85%
 
     - name: GIT
-      level: 60%
+      level: 70%
 
     - name: Ruby
       level: 70%
+      
+    - name: Bootstrap
+      level: 60%
+      
+    - name: Golang
+      level: 60%
 
 # NO MODIFICAR
 footer: >
